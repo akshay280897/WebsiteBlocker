@@ -23,4 +23,4 @@ while True:
                     file.write(line)
             file.truncate()
         print("Happy hours...!")
-    time.sleep(5)
+    time.sleep(5000)
